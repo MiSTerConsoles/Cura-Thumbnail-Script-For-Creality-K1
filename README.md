@@ -7,7 +7,7 @@ Create another instance of the script and set width/height to 300 pixels.
 
 ![300px](https://github.com/MiSTerConsoles/Cura-Thumbnail-Script-For-Creality-K1/assets/80081591/f6483e75-2e0f-4474-8c6a-3b1dfb9668bb)
 
-If you also want a preview thumbnail of your STL file on your PC you will need to add the original CreateThumbnail.py script to Cura. Select that as well and set width/height to 300 pixels.
+If you also want a preview thumbnail of your STL file on your PC you will need to add the original [CreateThumbnail.py](https://github.com/Ultimaker/Cura/blob/main/plugins/PostProcessingPlugin/scripts/CreateThumbnail.py) script to Cura. Select that as well and set width/height to 300 pixels.
 
 ![300px PC](https://github.com/MiSTerConsoles/Cura-Thumbnail-Script-For-Creality-K1/assets/80081591/126af770-5c38-499a-9f72-0d4f72c9c733)
 
