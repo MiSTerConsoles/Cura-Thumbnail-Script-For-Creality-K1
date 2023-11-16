@@ -1,5 +1,5 @@
 # Cura-Thumbnail-Script-For-Creality-K1
-This is a post-processing script to get G-Code thumbnail images on the Creality K1/K1 Max machines. It is a modified version of the original CreateThumbnail.py script. In order to use it place the file in the "scripts" folder. Then in Cura you will go to Extensions --> Post Processing --> Modify G-Code. Select the CreateThumbnailK1.py script and set width/height to 96 pixels.
+This is a post-processing script to get G-Code thumbnail images on the Creality K1/K1 Max machines. It is a modified version of the original CreateThumbnail.py script. In order to use it place the _CreateThumbnailK1.py_ file in the "scripts" folder. Then in Cura you will go to Extensions --> Post Processing --> Modify G-Code. Select the **Create Thumbnail For K1** script and set width/height to 96 pixels.
 
 ![96px](https://github.com/MiSTerConsoles/Cura-Thumbnail-Script-For-Creality-K1/assets/80081591/43c7ee67-c5fb-4c9a-a32e-e6c7c007e7f8)
 
