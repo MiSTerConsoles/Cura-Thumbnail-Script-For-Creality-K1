@@ -11,4 +11,4 @@ If you also want a preview thumbnail of your STL file on your PC you will need t
 
 ![300px PC](https://github.com/MiSTerConsoles/Cura-Thumbnail-Script-For-Creality-K1/assets/80081591/126af770-5c38-499a-9f72-0d4f72c9c733)
 
-Once you have those scripts set up your object should have thumbnails on the K1 display as well as on your PC and in Fluidd/Mainsail. Happy printing!
+Once you have those scripts set up your object should have thumbnails on the K1 display as well as on your PC and in Fluidd/Mainsail. All credit goes to the author of the original script that I tweaked. Happy printing!
